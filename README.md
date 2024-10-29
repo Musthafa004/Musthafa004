@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ahamed Musthafa,<br>A data enthusiast with over 2.7 years of experience in ETL process,primarily using Oracle data integrator (ODI),Putty and Oracle SQL Developer. <br>My projects focus on optimizing data workflows and enhancing data availability. i'm also learning python to expand my backend development skills. <br>i'm excited to continue growing in this field and am always open to new projects and collaborations.
+I'm Ahamed Musthafa,<br>A data enthusiast with over 2.7 years of experience in ETL process,primarily using Oracle data integrator (ODI),Putty and Oracle SQL Developer.My projects focus on optimizing data workflows and enhancing data availability. i'm also learning python to expand my backend development skills. <br>i'm excited to continue growing in this field and am always open to new projects and collaborations.
 
 
 ## 🌐 Socials:
